@@ -2,8 +2,11 @@
 
 
 
-What I'm up to ? 🔭 I’m currently working on a Realtime Chat App with Next, typescript and Firebase
 
+🔭 What I'm up to ? I’m currently working on a Realtime Chat App with Next, typescript and Firebase
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Moyowaaaa&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <!--
