@@ -7,7 +7,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Moyowaaaa&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moyowaaaa)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moyowaaaa)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **Moyowaaaa/Moyowaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
